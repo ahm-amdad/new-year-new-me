@@ -193,13 +193,38 @@ background-size: cover;
     justify-content: space-around;
 }
 
+.left h3{
+    font-size: 30px;
+}
 .left h3, p{
     color:white;
     width:300px;
     text-align: left;
     margin-bottom: 10px;
 }
+.right p{
+    font-size: 20px;
 
+}
 .right{
     color:white;
 }
+.right input{
+    color: var(--Dark-07, #F3F3F3);
+    font-family: Work Sans;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    margin-bottom: 10px;
+    width:222px;
+    height:37px;
+    padding-left:20px;
+}
+
+.right button{
+    width: 170.106px;
+height: 34px;
+
+}
+
